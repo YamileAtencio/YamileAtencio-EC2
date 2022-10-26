@@ -1,0 +1,2 @@
+insert into usuario (usuario,password,rol) values ("Juan","123","user")
+insert into usuario (usuario,password,rol) values ("Maria","456","admin")
